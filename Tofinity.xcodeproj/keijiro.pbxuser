@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	0F011C6211DE139B00ED0BCA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TofinityAppDelegate.h */;
+		name = "TofinityAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 422;
+		vrLoc = 0;
+	};
+	0F011C6311DE139B00ED0BCA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TofinityAppDelegate.m */;
+		name = "TofinityAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 233;
+	};
+	0F011C6411DE139B00ED0BCA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 8";
+		rLen = 25;
+		rLoc = 165;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	0F1C186011DAF434000FE296 /* EAGLView.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2070}}";
+			sepNavSelRange = "{1963, 0}";
+			sepNavVisRange = "{3850, 643}";
+		};
+	};
+	0F1C186111DAF434000FE296 /* Tofu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 230}";
+		};
+	};
+	0F1C186211DAF434000FE296 /* Tofu.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 720}}";
+			sepNavSelRange = "{1258, 0}";
+			sepNavVisRange = "{240, 1024}";
+		};
+	};
+	0F1C186311DAF434000FE296 /* Wrangler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 253}";
+		};
+	};
+	0F1C186411DAF434000FE296 /* Wrangler.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1800}}";
+			sepNavSelRange = "{2913, 0}";
+			sepNavVisRange = "{2412, 604}";
+		};
+	};
+	0F380E5311E16FB30089BF5D /* Tofu.mm:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0F1C186211DAF434000FE296 /* Tofu.mm */;
+		functionName = "-dealloc";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = Tofinity;
+		modificationTime = 299987632.360931;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	0F380E5811E16FB80089BF5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0F1C186111DAF434000FE296 /* Tofu.h */;
+		name = "Tofu.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	0F380E6C11E1723F0089BF5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0F1C186011DAF434000FE296 /* EAGLView.mm */;
+		name = "EAGLView.mm: 56";
+		rLen = 0;
+		rLoc = 1963;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 3850;
+	};
+	0F380E6D11E1723F0089BF5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0F1C186411DAF434000FE296 /* Wrangler.mm */;
+		name = "Wrangler.mm: 58";
+		rLen = 0;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 1154;
+	};
+	0F380E6E11E1723F0089BF5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0F1C186311DAF434000FE296 /* Wrangler.h */;
+		name = "Wrangler.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	0F380E7111E172760089BF5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0F1C186211DAF434000FE296 /* Tofu.mm */;
+		name = "Tofu.mm: 46";
+		rLen = 0;
+		rLoc = 1258;
+		rType = 0;
+		vrLen = 1024;
+		vrLoc = 240;
+	};
+	0F380E7211E172760089BF5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Tofinity-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/keijiro/Documents/iPhone/Tofinity/Tofinity-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	0F380E7A11E1735A0089BF5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Tofinity-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/keijiro/Documents/iPhone/Tofinity/Tofinity-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	0F7AA34511DAEE1B00642DDA /* Tofinity */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Tofinity;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	0F7AA35511DAEE5200642DDA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0F7AA35611DAEE5200642DDA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D3623240D0F684500981E51 /* TofinityAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 524}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 422}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TofinityAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 705}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{233, 584}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Tofinity */ = {
+		activeExec = 0;
+		executables = (
+			0F7AA34511DAEE1B00642DDA /* Tofinity */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 524}}";
+			sepNavSelRange = "{165, 25}";
+			sepNavVisRange = "{0, 541}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0F7AA34511DAEE1B00642DDA /* Tofinity */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Tofinity */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Tofinity */,
+		);
+		breakpoints = (
+			0F380E5311E16FB30089BF5D /* Tofu.mm:46 */,
+		);
+		codeSenseManager = 0F7AA35611DAEE5200642DDA /* Code sense */;
+		executables = (
+			0F7AA34511DAEE1B00642DDA /* Tofinity */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299986771;
+			PBXWorkspaceStateSaveDate = 299986771;
+		};
+		perUserProjectItems = {
+			0F011C6211DE139B00ED0BCA /* PBXTextBookmark */ = 0F011C6211DE139B00ED0BCA /* PBXTextBookmark */;
+			0F011C6311DE139B00ED0BCA /* PBXTextBookmark */ = 0F011C6311DE139B00ED0BCA /* PBXTextBookmark */;
+			0F011C6411DE139B00ED0BCA /* PBXTextBookmark */ = 0F011C6411DE139B00ED0BCA /* PBXTextBookmark */;
+			0F380E5811E16FB80089BF5D /* PBXTextBookmark */ = 0F380E5811E16FB80089BF5D /* PBXTextBookmark */;
+			0F380E6C11E1723F0089BF5D /* PBXTextBookmark */ = 0F380E6C11E1723F0089BF5D /* PBXTextBookmark */;
+			0F380E6D11E1723F0089BF5D /* PBXTextBookmark */ = 0F380E6D11E1723F0089BF5D /* PBXTextBookmark */;
+			0F380E6E11E1723F0089BF5D /* PBXTextBookmark */ = 0F380E6E11E1723F0089BF5D /* PBXTextBookmark */;
+			0F380E7111E172760089BF5D /* PBXTextBookmark */ = 0F380E7111E172760089BF5D /* PBXTextBookmark */;
+			0F380E7211E172760089BF5D /* PlistBookmark */ = 0F380E7211E172760089BF5D /* PlistBookmark */;
+			0F380E7A11E1735A0089BF5D /* PlistBookmark */ = 0F380E7A11E1735A0089BF5D /* PlistBookmark */;
+		};
+		sourceControlManager = 0F7AA35511DAEE5200642DDA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* Tofinity-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+}

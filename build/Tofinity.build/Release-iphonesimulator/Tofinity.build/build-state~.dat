@@ -1,0 +1,1715 @@
+TTofinity
+v7
+r0
+t309976671.200358
+cCheck dependencies
+cProcessInfoPlistFile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Info.plist Tofinity-Info.plist
+cCompileXIB /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/MainWindow.xib
+cCpResource build/Release-iphonesimulator/Tofinity.app/Default.png Default.png
+cCpResource build/Release-iphonesimulator/Tofinity.app/Icon.png Icon.png
+cCpResource build/Release-iphonesimulator/Tofinity.app/Default-Landscape.png Resources-iPad/Default-Landscape.png
+cCpResource build/Release-iphonesimulator/Tofinity.app/Default-Portrait.png Resources-iPad/Default-Portrait.png
+cCpResource build/Release-iphonesimulator/Tofinity.app/Icon-iPad.png Resources-iPad/Icon-iPad.png
+cCompileXIB /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/MainWindow-iPad.xib
+cProcessPCH /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch.gch Tofinity_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch.gch Tofinity_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch.gch Tofinity_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/main.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/TofinityAppDelegate.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/EAGLView.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofu.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Wrangler.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BroadPhase.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollideCircle.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollidePolygon.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Collision.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Distance.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DynamicTree.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TimeOfImpact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleShape.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonShape.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BlockAllocator.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Math.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Settings.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2StackAllocator.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Body.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactManager.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Fixture.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Island.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2World.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WorldCallbacks.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleContact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Contact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactSolver.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonAndCircleContact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonContact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TOISolver.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DistanceJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2FrictionJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2GearJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Joint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2LineJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2MouseJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PrismaticJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PulleyJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2RevoluteJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WeldJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity normal i386
+cGenerateDSYMFile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app.dSYM /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity
+cTouch /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C810ECB0000000000000132
+t1283526347
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BFDFF0A0000000000009369
+t1274937098
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BFDFF0A0000000000003C4A
+t1274937098
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BFDFF120000000000019D60
+t1274937106
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Box2D.h
+c000000004BDB9E8C00000000000008C9
+t1272684172
+s2249
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp
+c000000004BDB9E8C0000000000000BC7
+t1272684172
+s3015
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.h
+c000000004BDB9E8C00000000000009D9
+t1272684172
+s2521
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp
+c000000004BDB9E8C0000000000002B9E
+t1272684172
+s11166
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.h
+c000000004BDB9E8C0000000000000FBB
+t1272684172
+s4027
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2Shape.h
+c000000004BDB9E8C0000000000000D18
+t1272684172
+s3352
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp
+c000000004BDB9E8C0000000000000C5A
+t1272684172
+s3162
+i<Box2D/Collision/b2BroadPhase.h>
+i<cstring>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.h
+c000000004BDB9E8C0000000000001928
+t1272684172
+s6440
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<algorithm>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp
+c000000004BDB9E8C00000000000011A5
+t1272684172
+s4517
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp
+c000000004BDB9E8C0000000000002245
+t1272684172
+s8773
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp
+c000000004BDB9E8C00000000000018BA
+t1272684172
+s6330
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2Distance.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.h
+c000000004BDB9E8C0000000000002091
+t1272684172
+s8337
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp
+c000000004BDB9E8C000000000000330C
+t1272684172
+s13068
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.h
+c000000004BDB9E8C0000000000000F42
+t1272684172
+s3906
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp
+c000000004BDB9E8C000000000000215E
+t1272684172
+s8542
+i<Box2D/Collision/b2DynamicTree.h>
+i<cstring>
+i<cfloat>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.h
+c000000004BDB9E8C0000000000001D32
+t1272684172
+s7474
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp
+c000000004BDB9E8C0000000000002F75
+t1272684172
+s12149
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<cstdio>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.h
+c000000004BDB9E8C0000000000000798
+t1272684172
+s1944
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Distance.h>
+i<climits>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp
+c000000004BDB9E8C000000000000139B
+t1272684172
+s5019
+i<Box2D/Common/b2BlockAllocator.h>
+i<cstdlib>
+i<climits>
+i<cstring>
+i<memory>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.h
+c000000004BDB9E8C000000000000072E
+t1272684172
+s1838
+i<Box2D/Common/b2Settings.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp
+c000000004BDB9E8C00000000000007CB
+t1272684172
+s1995
+i<Box2D/Common/b2Math.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.h
+c000000004BDB9E8C0000000000003B41
+t1272684172
+s15169
+i<Box2D/Common/b2Settings.h>
+i<cmath>
+i<cfloat>
+i<cstddef>
+i<limits>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp
+c000000004BDB9E8C000000000000049C
+t1272684172
+s1180
+i<Box2D/Common/b2Settings.h>
+i<cstdlib>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.h
+c000000004BDB9E8C0000000000001534
+t1272684172
+s5428
+i<cassert>
+i<cmath>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp
+c000000004BDB9E8C0000000000000857
+t1272684172
+s2135
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Common/b2Math.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.h
+c000000004BDB9E8C00000000000006C7
+t1272684172
+s1735
+i<Box2D/Common/b2Settings.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp
+c000000004BDB9E8C0000000000000830
+t1272684172
+s2096
+i<Box2D/Dynamics/Contacts/b2CircleContact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.h
+c000000004BDB9E8C00000000000005BF
+t1272684172
+s1471
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp
+c000000004BDB9E8C00000000000019AD
+t1272684172
+s6573
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Contacts/b2CircleContact.h>
+i<Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h>
+i<Box2D/Dynamics/Contacts/b2PolygonContact.h>
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.h
+c000000004BDB9E8C0000000000001AF6
+t1272684172
+s6902
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp
+c000000004BDB9E8C0000000000004825
+t1272684172
+s18469
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Common/b2StackAllocator.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.h
+c000000004BDB9E8C0000000000000846
+t1272684172
+s2118
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Dynamics/b2Island.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp
+c000000004BDB9E8C00000000000008AF
+t1272684172
+s2223
+i<Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h
+c000000004BDB9E8C00000000000005F5
+t1272684172
+s1525
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp
+c000000004BDB9E8C0000000000000843
+t1272684172
+s2115
+i<Box2D/Dynamics/Contacts/b2PolygonContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.h
+c000000004BDB9E8C00000000000005C4
+t1272684172
+s1476
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp
+c000000004BDB9E8C0000000000001911
+t1272684172
+s6417
+i<Box2D/Dynamics/Contacts/b2TOISolver.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Common/b2StackAllocator.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.h
+c000000004BDB9E8C0000000000000656
+t1272684172
+s1622
+i<Box2D/Common/b2Math.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp
+c000000004BDB9E8B0000000000001805
+t1272684171
+s6149
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.h
+c000000004BDB9E8B0000000000000F89
+t1272684171
+s3977
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp
+c000000004BDB9E8B0000000000001881
+t1272684171
+s6273
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.h
+c000000004BDB9E8B0000000000000B38
+t1272684171
+s2872
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp
+c000000004BDB9E8B0000000000001C6E
+t1272684171
+s7278
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.h
+c000000004BDB9E8B0000000000000CE4
+t1272684171
+s3300
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp
+c000000004BDB9E8B000000000000129D
+t1272684171
+s4765
+i<Box2D/Dynamics/Joints/b2Joint.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.h
+c000000004BDB9E8B0000000000001692
+t1272684171
+s5778
+i<Box2D/Common/b2Math.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp
+c000000004BDB9E8B0000000000003A8A
+t1272684171
+s14986
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.h
+c000000004BDB9E8B0000000000001411
+t1272684171
+s5137
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp
+c000000004BDB9E8B0000000000001493
+t1272684171
+s5267
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.h
+c000000004BDB9E8B0000000000000DE9
+t1272684171
+s3561
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp
+c000000004BDB9E8B0000000000003E16
+t1272684171
+s15894
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.h
+c000000004BDB9E8B0000000000001524
+t1272684171
+s5412
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp
+c000000004BDB9E8B0000000000002B94
+t1272684171
+s11156
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.h
+c000000004BDB9E8B0000000000001148
+t1272684171
+s4424
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp
+c000000004BDB9E8B0000000000003266
+t1272684171
+s12902
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.h
+c000000004BDB9E8B000000000000156E
+t1272684171
+s5486
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp
+c000000004BDB9E8B000000000000198D
+t1272684171
+s6541
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.h
+c000000004BDB9E8B0000000000000A29
+t1272684171
+s2601
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp
+c000000004BDB9E8C00000000000028FF
+t1272684172
+s10495
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.h
+c000000004BDB9E8C00000000000055A5
+t1272684172
+s21925
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<memory>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp
+c000000004BDB9E8C00000000000018BA
+t1272684172
+s6330
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.h
+c000000004BDB9E8C0000000000000637
+t1272684172
+s1591
+i<Box2D/Collision/b2BroadPhase.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp
+c000000004BDB9E8C000000000000103D
+t1272684172
+s4157
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Common/b2BlockAllocator.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.h
+c000000004BDB9E8C00000000000022D3
+t1272684172
+s8915
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp
+c000000004BDB9E8C0000000000003290
+t1272684172
+s12944
+i<Box2D/Dynamics/b2Island.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Dynamics/Joints/b2Joint.h>
+i<Box2D/Common/b2StackAllocator.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.h
+c000000004BDB9E8C0000000000000A2C
+t1272684172
+s2604
+i<Box2D/Common/b2Math.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2TimeStep.h
+c000000004BDB9E8C00000000000004F4
+t1272684172
+s1268
+i<Box2D/Common/b2Settings.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp
+c000000004BDB9E8C000000000000601D
+t1272684172
+s24605
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2Island.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Dynamics/Contacts/b2TOISolver.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<new>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.h
+c000000004BDB9E8C0000000000002229
+t1272684172
+s8745
+i<Box2D/Common/b2Math.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp
+c000000004BDB9E8C00000000000007C2
+t1272684172
+s1986
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.h
+c000000004BDB9E8C0000000000001EDC
+t1272684172
+s7900
+i<Box2D/Common/b2Settings.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.h
+c000000004BDB9E8C000000000000021D
+t1272684172
+s541
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm
+c000000004BDB9E8C000000000000118D
+t1272684172
+s4493
+i"EAGLView.h"
+i"Wrangler.h"
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.h
+c000000004C2AB69A00000000000001B0
+t1277867674
+s432
+i<UIKit/UIKit.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m
+c000000004C2AB69A000000000000033B
+t1277867674
+s827
+i"TofinityAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.h
+c000000004BDB9E8C00000000000000E6
+t1272684172
+s230
+i<Box2D/Box2D.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm
+c000000004C313ABB00000000000004F0
+t1278294715
+s1264
+i"Tofu.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.h
+c000000004BDB9E8C00000000000000FD
+t1272684172
+s253
+i<Box2D/Box2D.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm
+c000000004C3139FC0000000000000BC8
+t1278294524
+s3016
+i"Wrangler.h"
+i"Tofu.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Default.png
+c000000004BDB9E8C0000000000003DFA
+t1272684172
+s15866
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Icon.png
+c000000004BDB9EEB0000000000000DA9
+t1272684267
+s3497
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/MainWindow.xib
+c000000004C2ABFAE000000000000539C
+t1277869998
+s21404
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Default-Landscape.png
+c000000004BDB9E89000000000000B106
+t1272684169
+s45318
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Default-Portrait.png
+c000000004BDB9E89000000000000CD84
+t1272684169
+s52612
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Icon-iPad.png
+c000000004BDB9E89000000000000107D
+t1272684169
+s4221
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/MainWindow-iPad.xib
+c000000004C2AC30D000000000000537D
+t1277870861
+s21373
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch
+c000000004C2AB69A000000000000013A
+t1277867674
+s314
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app
+t1288283871
+s408
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app.dSYM
+t1288283871
+s102
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Default-Landscape.png
+t1288283862
+s45318
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Default-Portrait.png
+t1288283862
+s52612
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Default.png
+t1288283862
+s15866
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Icon-iPad.png
+t1288283862
+s4221
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Icon.png
+t1288283862
+s3497
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Info.plist
+t1288283862
+s890
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/MainWindow-iPad.nib
+t1288283863
+s1210
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/MainWindow.nib
+t1288283863
+s1210
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/PkgInfo
+t1288283862
+s8
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity
+t1288283871
+s241108
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/EAGLView.o
+t1288283865
+s95048
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofinity.LinkFileList
+c000000004CC9A6D60000000000001840
+t1288283862
+s6208
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/TofinityAppDelegate.o
+t1288283864
+s47588
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofu.o
+t1288283865
+s57496
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Wrangler.o
+t1288283865
+s66904
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BlockAllocator.o
+t1288283866
+s22604
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Body.o
+t1288283867
+s70860
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BroadPhase.o
+t1288283865
+s26452
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleContact.o
+t1288283868
+s41548
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleShape.o
+t1288283866
+s19972
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollideCircle.o
+t1288283865
+s19044
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollidePolygon.o
+t1288283865
+s26888
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Collision.o
+t1288283865
+s21112
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Contact.o
+t1288283868
+s56036
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactManager.o
+t1288283867
+s77136
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactSolver.o
+t1288283868
+s75764
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Distance.o
+t1288283866
+s37424
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DistanceJoint.o
+t1288283869
+s48424
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DynamicTree.o
+t1288283866
+s23536
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Fixture.o
+t1288283867
+s46136
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2FrictionJoint.o
+t1288283869
+s51872
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2GearJoint.o
+t1288283869
+s57144
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Island.o
+t1288283867
+s61732
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Joint.o
+t1288283869
+s51096
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2LineJoint.o
+t1288283870
+s66516
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Math.o
+t1288283866
+s10680
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2MouseJoint.o
+t1288283870
+s53032
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonAndCircleContact.o
+t1288283868
+s42024
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonContact.o
+t1288283869
+s41592
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonShape.o
+t1288283866
+s36068
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PrismaticJoint.o
+t1288283870
+s69568
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PulleyJoint.o
+t1288283870
+s62832
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2RevoluteJoint.o
+t1288283870
+s66872
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Settings.o
+t1288283866
+s5564
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2StackAllocator.o
+t1288283866
+s8584
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TOISolver.o
+t1288283869
+s50552
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TimeOfImpact.o
+t1288283866
+s39420
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WeldJoint.o
+t1288283870
+s47508
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2World.o
+t1288283868
+s108564
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WorldCallbacks.o
+t1288283867
+s36840
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/main.o
+t1288283864
+s6332
+
+N/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m
+c000000004C2AB69A000000000000016F
+t1277867674
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch.gch
+t1288283864
+s16288656
+
+N/var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch.gch
+t1288283864
+s14896144
+
+N/var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch.gch
+t1288283864
+s2535856
+
+NTofinity-Info.plist
+c000000004C313BD1000000000000050F
+t1278294993
+s1295
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309976662#309976662#0(0"0(0#1#0"7623467204087447552#0"0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/EAGLView.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s309976664.857591
+e309976665.306896
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/EAGLView.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm309976664#309976665#0(0"0(0#0#79"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm8604282528#2259"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/EAGLView.mm -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/TofinityAppDelegate.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309976664.675613
+e309976664.893961
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/TofinityAppDelegate.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m309976664#309976664#0(0"0(0#0#89"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m8604151744#2259"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/TofinityAppDelegate.m -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/TofinityAppDelegate.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofu.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s309976664.894070
+e309976665.198307
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofu.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm309976664#309976665#0(0"0(0#0#75"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm8604190624#2251"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Tofu.mm -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofu.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Wrangler.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s309976665.198408
+e309976665.605137
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Wrangler.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm309976665#309976665#0(0"0(0#0#79"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm8605657184#2259"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Wrangler.mm -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Wrangler.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BlockAllocator.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.573436
+e309976666.791383
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BlockAllocator.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp309976666#309976666#0(0"0(0#0#101"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp8604075232#2235"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2BlockAllocator.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BlockAllocator.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Body.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.877912
+e309976667.342424
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Body.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp309976666#309976667#0(0"0(0#0#93"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp8607367936#2217"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Body.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Body.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BroadPhase.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976665.307004
+e309976665.552677
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BroadPhase.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp309976665#309976665#0(0"0(0#0#100"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp8605340288#2230"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2BroadPhase.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2BroadPhase.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleContact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976667.967434
+e309976668.201316
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleContact.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp309976667#309976668#0(0"0(0#0#111"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp8605152832#2244"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2CircleContact.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleContact.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleShape.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.232884
+e309976666.400271
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleShape.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp309976666#309976666#0(0"0(0#0#108"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp8604271936#2239"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2CircleShape.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CircleShape.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollideCircle.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976665.552780
+e309976665.737746
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollideCircle.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp309976665#309976665#0(0"0(0#0#103"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp8604034592#2236"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollideCircle.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollideCircle.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollidePolygon.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976665.605242
+e309976665.850557
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollidePolygon.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp309976665#309976665#0(0"0(0#0#104"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp8603863200#2238"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2CollidePolygon.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2CollidePolygon.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Collision.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976665.737847
+e309976665.964414
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Collision.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp309976665#309976665#0(0"0(0#0#99"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp8606799104#2228"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Collision.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Collision.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Contact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976668.201423
+e309976668.549507
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Contact.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp309976668#309976668#0(0"0(0#0#105"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp8605365184#2232"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2Contact.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Contact.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactManager.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.955391
+e309976667.398249
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactManager.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp309976666#309976667#0(0"0(0#0#103"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp8605346432#2237"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2ContactManager.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactManager.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactSolver.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976668.376956
+e309976668.941793
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactSolver.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp309976668#309976668#0(0"0(0#0#111"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp8605447680#2244"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2ContactSolver.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2ContactSolver.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Distance.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976665.850832
+e309976666.197106
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Distance.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp309976665#309976666#0(0"0(0#0#98"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp8605364864#2226"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2Distance.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Distance.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DistanceJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976669.017738
+e309976669.319775
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DistanceJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp309976669#309976669#0(0"0(0#0#109"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp8604804448#2242"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2DistanceJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DistanceJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DynamicTree.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976665.964606
+e309976666.232599
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DynamicTree.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp309976665#309976666#0(0"0(0#0#101"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp8606779648#2232"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2DynamicTree.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2DynamicTree.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Fixture.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976667.342527
+e309976667.634148
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Fixture.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp309976667#309976667#0(0"0(0#0#96"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp8606762432#2223"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Fixture.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Fixture.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2FrictionJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976669.262913
+e309976669.570242
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2FrictionJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp309976669#309976669#0(0"0(0#0#109"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp8604186048#2242"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2FrictionJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2FrictionJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2GearJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976669.319879
+e309976669.648207
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2GearJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp309976669#309976669#0(0"0(0#0#105"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp8604271552#2234"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2GearJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2GearJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Island.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976667.398356
+e309976667.749420
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Island.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp309976667#309976667#0(0"0(0#0#95"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp8605116992#2221"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2Island.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Island.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Joint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976669.570344
+e309976669.868787
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Joint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp309976669#309976669#0(0"0(0#0#101"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp8604195104#2226"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2Joint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Joint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2LineJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976669.648316
+e309976670.116119
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2LineJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp309976669#309976670#0(0"0(0#0#105"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp8604771584#2234"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2LineJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2LineJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Math.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.687756
+e309976666.823223
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Math.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp309976666#309976666#0(0"0(0#0#91"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp8603225824#2215"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Math.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Math.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2MouseJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976669.868891
+e309976670.164643
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2MouseJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp309976669#309976670#0(0"0(0#0#106"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp8605518784#2236"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2MouseJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2MouseJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonAndCircleContact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976668.549612
+e309976668.778212
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonAndCircleContact.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp309976668#309976668#0(0"0(0#0#121"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp8604459040#2264"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonAndCircleContact.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonContact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976668.778318
+e309976669.017628
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonContact.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp309976668#309976669#0(0"0(0#0#112"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp8603422304#2246"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2PolygonContact.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonContact.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonShape.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.400376
+e309976666.687644
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonShape.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp309976666#309976666#0(0"0(0#0#109"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp8605328640#2241"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/Shapes/b2PolygonShape.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PolygonShape.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PrismaticJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976670.116226
+e309976670.586464
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PrismaticJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp309976670#309976670#0(0"0(0#0#110"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp8604233472#2244"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PrismaticJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PulleyJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976670.164749
+e309976670.568971
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PulleyJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp309976670#309976670#0(0"0(0#0#107"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp8604140992#2238"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2PulleyJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2PulleyJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2RevoluteJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976670.569072
+e309976670.989514
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2RevoluteJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp309976670#309976670#0(0"0(0#0#109"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp8605008288#2242"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2RevoluteJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Settings.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.791487
+e309976666.877808
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Settings.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp309976666#309976666#0(0"0(0#0#95"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp8605513472#2223"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2Settings.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2Settings.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2StackAllocator.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.823330
+e309976666.955289
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2StackAllocator.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp309976666#309976666#0(0"0(0#0#101"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp8605125536#2235"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Common/b2StackAllocator.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2StackAllocator.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TOISolver.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976668.941894
+e309976669.262763
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TOISolver.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp309976668#309976669#0(0"0(0#0#107"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp8605355904#2236"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Contacts/b2TOISolver.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TOISolver.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TimeOfImpact.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976666.197209
+e309976666.573337
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TimeOfImpact.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp309976666#309976666#0(0"0(0#0#102"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp8604536384#2234"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Collision/b2TimeOfImpact.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2TimeOfImpact.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WeldJoint.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976670.586572
+e309976670.892654
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WeldJoint.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp309976670#309976670#0(0"0(0#0#105"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp8604468256#2234"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/Joints/b2WeldJoint.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WeldJoint.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2World.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976667.634333
+e309976668.376854
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2World.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp309976667#309976668#0(0"0(0#0#94"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp8605422592#2219"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2World.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2World.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WorldCallbacks.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s309976667.749529
+e309976667.967131
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WorldCallbacks.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp309976667#309976667#0(0"0(0#0#103"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp8605190944#2237"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Classes/Box2D/Dynamics/b2WorldCallbacks.cpp -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/b2WorldCallbacks.o0#
+
+CCompileC build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/main.o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309976664.674094
+e309976664.857476
+r1
+xCompileC
+xbuild/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/main.o
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m309976664#309976664#0(0"0(0#0#66"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m8604741728#2221"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/main.m -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/MainWindow.xib
+s309976662.778486
+e309976663.310761
+r1
+xCompileXIB
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309976662#309976663#0(0"0(0#0#74"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/MainWindow.xib8605391264#636"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/MainWindow.nib /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/MainWindow-iPad.xib
+s309976662.787100
+e309976663.226468
+r1
+xCompileXIB
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib309976662#309976663#0(0"0(0#0#94"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/MainWindow-iPad.xib8604491360#661"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/MainWindow-iPad.nib /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/MainWindow-iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Release-iphonesimulator/Tofinity.app/Default-Landscape.png Resources-iPad/Default-Landscape.png
+s309976662.782027
+e309976662.796901
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tofinity.app/Default-Landscape.png
+xResources-iPad/Default-Landscape.png
+lSLF07#2@41"Copy Resources-iPad/Default-Landscape.png309976662#309976662#0(0"0(0#0#96"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Default-Landscape.png8604840192#567"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Default-Landscape.png /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app0#
+
+CCpResource build/Release-iphonesimulator/Tofinity.app/Default-Portrait.png Resources-iPad/Default-Portrait.png
+s309976662.783758
+e309976662.799144
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tofinity.app/Default-Portrait.png
+xResources-iPad/Default-Portrait.png
+lSLF07#2@40"Copy Resources-iPad/Default-Portrait.png309976662#309976662#0(0"0(0#0#95"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Default-Portrait.png8604731168#566"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Default-Portrait.png /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app0#
+
+CCpResource build/Release-iphonesimulator/Tofinity.app/Default.png Default.png
+s309976662.779467
+e309976662.789251
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tofinity.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png309976662#309976662#0(0"0(0#0#71"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Default.png8605327040#542"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Default.png /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app0#
+
+CCpResource build/Release-iphonesimulator/Tofinity.app/Icon-iPad.png Resources-iPad/Icon-iPad.png
+s309976662.785436
+e309976662.801647
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tofinity.app/Icon-iPad.png
+xResources-iPad/Icon-iPad.png
+lSLF07#2@33"Copy Resources-iPad/Icon-iPad.png309976662#309976662#0(0"0(0#0#88"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Icon-iPad.png8604613312#559"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Resources-iPad/Icon-iPad.png /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app0#
+
+CCpResource build/Release-iphonesimulator/Tofinity.app/Icon.png Icon.png
+s309976662.780292
+e309976662.796180
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tofinity.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png309976662#309976662#0(0"0(0#0#68"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Icon.png8605047520#539"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Icon.png /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app0#
+
+CGenerateDSYMFile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app.dSYM /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity
+s309976671.053286
+e309976671.197163
+r1
+xGenerateDSYMFile
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app.dSYM
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity
+lSLF07#2@116"GenerateDSYMFile build/Release-iphonesimulator/Tofinity.app.dSYM build/Release-iphonesimulator/Tofinity.app/Tofinity309976671#309976671#0(0"0(0#0#111"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity8604573920#453"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app.dSYM0#
+
+CLd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity normal i386
+s309976670.989611
+e309976671.053177
+r1
+xLd
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity
+xnormal
+xi386
+lSLF07#2@116"Link /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity309976670#309976671#0(0"0(0#0#0"8603555360#1036"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -filelist /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Objects-normal/i386/Tofinity.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Tofinity0#
+
+CProcessInfoPlistFile /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Info.plist Tofinity-Info.plist
+s309976662.764409
+e309976662.778390
+r1
+xProcessInfoPlistFile
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Info.plist
+xTofinity-Info.plist
+lSLF07#2@27"Process Tofinity-Info.plist309976662#309976662#0(0"0(0#0#79"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity-Info.plist32651513917341812#549"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tofinity-Info.plist -genpkginfo /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app/Info.plist0#
+
+CProcessPCH /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch.gch Tofinity_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309976663.310924
+e309976664.408386
+r1
+xProcessPCH
+x/var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch.gch
+xTofinity_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Tofinity_Prefix.pch309976663#309976664#0(0"0(0#0#79"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch8603927936#2089"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch -o /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-cemgpzoqaqtprlejvcbwulkmzipt/Tofinity_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch.gch Tofinity_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s309976663.311867
+e309976664.567249
+r1
+xProcessPCH++
+x/var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch.gch
+xTofinity_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Tofinity_Prefix.pch309976663#309976664#0(0"0(0#0#79"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch8607162432#2110"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch -o /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-beqnosgivblcpieuoqhcqxidwfpz/Tofinity_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch.gch Tofinity_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s309976664.408656
+e309976664.673757
+r1
+xProcessPCH++
+x/var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch.gch
+xTofinity_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Tofinity_Prefix.pch309976664#309976664#0(0"0(0#0#79"/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch8607421536#2056"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-generated-files.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-own-target-headers.hmap -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-all-target-headers.hmap -iquote /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/Tofinity-project-headers.hmap -F/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/include -IClasses -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources/i386 -I/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Tofinity.build/Release-iphonesimulator/Tofinity.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/Tofinity_Prefix.pch -o /var/folders/-h/-hEaX12TH-aDhmMiujdCuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tofinity_Prefix-dhzgafcuyginmyfhkxijpbeobdys/Tofinity_Prefix.pch.gch0#
+
+CTouch /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app
+s309976671.197262
+e309976671.200307
+r1
+xTouch
+x/Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app
+lSLF07#2@108"Touch /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app309976671#309976671#0(0"0(0#0#0"8604501984#323"    cd /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/qwerty/Downloads/ipgd-samples/chap14-AppenD/Tofinity/build/Release-iphonesimulator/Tofinity.app0#
+
