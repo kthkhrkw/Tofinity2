@@ -187,6 +187,8 @@
 		4B9BE4CC13F5399200300375 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = iphoneos4.2/System/Library/Frameworks/QuartzCore.framework; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Tofinity-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Tofinity-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		EA8CF7111676129700A60D3B /* Tofinity copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Tofinity copy-Info.plist"; path = "/Users/kh/Public/development/test/Tofinity/Tofinity copy-Info.plist"; sourceTree = "<absolute>"; };
+		EA9E7CFE207B22D800431ECA /* debug_macro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = debug_macro.h; sourceTree = SOURCE_ROOT; };
+		EA9E7CFF207B242A00431ECA /* debug_macro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = debug_macro.h; path = Classes/debug_macro.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,6 +225,7 @@
 		0F1C186811DAF440000FE296 /* Box2D */ = {
 			isa = PBXGroup;
 			children = (
+				EA9E7CFF207B242A00431ECA /* debug_macro.h */,
 				0F1C186911DAF441000FE296 /* Box2D.h */,
 				0F1C186A11DAF441000FE296 /* Collision */,
 				0F1C187D11DAF441000FE296 /* Common */,
@@ -422,6 +425,7 @@
 			isa = PBXGroup;
 			children = (
 				4B029C52141653AC00731FD5 /* debug_macro.h */,
+				EA9E7CFE207B22D800431ECA /* debug_macro.h */,
 				4B64B973129E941B007FE0E6 /* copy.h */,
 				4B64B974129E941B007FE0E6 /* extrude.h */,
 				4B64B975129E941B007FE0E6 /* glsmap.h */,
